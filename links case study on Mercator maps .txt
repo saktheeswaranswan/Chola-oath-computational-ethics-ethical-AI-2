@@ -1,0 +1,99 @@
+An Application of Geography to Mathematics:
+History of the Integral of the Secant
+V. FREDERICK~CKEY
+Bowling Green State University
+Bowling Green, OH 43403
+PHILIP M. TUCHINSKY
+Ford Motor Company
+Engineering Computing Center
+Dearborn, MI 48121
+
+https://maa.org/sites/default/files/0025570x15087.di021115.02p0115x.pdf
+
+https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html
+
+https://en.wikipedia.org/wiki/Mercator_projection
+
+https://personal.math.ubc.ca/~israel/m103/mercator/mercator.html
+
+https://pro.arcgis.com/en/pro-app/latest/help/mapping/properties/mercator.htm
+
+https://www.maths.usyd.edu.au/u/daners/publ/abstracts/mercator/mercator.pdf
+
+The Mercator and stereographic projections,
+and many in between∗
+
+Map projection
+An intro for multivariable calculus
+
+https://www.marksmath.org/classes/common/MapProjection.pdf
+
+https://ctan.org/pkg/mercatormap?lang=en
+
+https://planetmath.org/mercatorprojection
+
+https://bestcase.wordpress.com/2014/05/25/the-mercator-saga-part-3-the-integral/
+
+https://answers.sap.com/questions/1833929/mercator-mapping.html
+
+The Story of Mercator's Map.: A Chapter in the History of Mathematics
+
+https://www.jstor.org/stable/3603395
+
+Mathematical Mapping from
+Mercator to the Millennium
+Robert Osserman
+Mathematical Sciences Research Institute
+
+https://www.math.purdue.edu/~eremenko/dvi/osserman-merc.pdf
+
+https://www.chegg.com/homework-help/questions-and-answers/integral-sec-thita-played-crucial-role-history-navigation-mercator-projection-world-map-li-q66547118
+
+https://scholarworks.umt.edu/cgi/viewcontent.cgi?article=1193&context=tme
+
+The history of mathematics as a pedagogical tool: Teaching the
+integral of the secant via Mer al of the secant via Mercator’s projection ojection
+Nick Haverhals
+Matt Roscoe 
+
+Mercator versus cylindrical projections
+
+https://math.stackexchange.com/questions/42838/mercator-versus-cylindrical-projections
+https://mathematics-and-physics.quora.com/MERCATORS-MAP-OF-THE-WORLD-AND-CALCULUS
+https://study.com/learn/lesson/gnomonic-mercator-conic-projection.html
+
+Mercator, it's not hip to be square
+
+map coordintes
+
+https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/mercator-its-not-hip-to-be-square/
+
+Instructions for Learning Station #2:
+
+https://laulima.hawaii.edu/access/content/group/MAN.78024.200910/Assignments/learningstation/learningstn_2.htm
+
+https://studenttheses.uu.nl/bitstream/handle/20.500.12932/30719/History%20of%20the%20Mercator%20projection.pdf?sequence=2
+
+Mercator and his Map 
+https://www.ias.ac.in/article/fulltext/reso/010/03/0008-0018
+
+The Mercator Projection
+
+
+https://www.math.brown.edu/tbanchof/balt/ma106/Mercator.html
+
+
+https://press.uchicago.edu/ucp/books/book/chicago/R/bo3634012.html
+
+mercator maps
+
+algorithm
+
+https://mathoverflow.net/users/13650/robert-israel
+
+https://personal.math.ubc.ca/~israel/m103/mercator/mercator.html
+
+https://mathoverflow.net/questions/124839/deriving-the-mercator-projection-algorithm
+
+https://mathoverflow.net/questions/124839/deriving-the-mercator-projection-algorithm
+
