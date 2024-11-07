@@ -1,0 +1,10 @@
+https://universe.roboflow.com/human-hwua3/drone-vision-s3oqv
+
+
+https://universe.roboflow.com/cansat23/people_drone-35bq9
+
+
+https://universe.roboflow.com/muhammet-eren-eygi-tfdmk/pedestrian-detection-npere
+
+
+https://universe.roboflow.com/alex-eagles-5-m/suas-mannequin-detection
